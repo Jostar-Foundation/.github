@@ -2,12 +2,7 @@
 
 <div align="center"><!-- Stars Badge -->
 
-<div align="left">
-<!--<a href="https://www.linkedin.com/in/joshuathadi/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="60" /></a>-->
-<a href="https://github.com/joshuathadi" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="80" /></a>
-</div>
+
   
 <a href="https://github.com/Jostar-Foundation" target="_blank">
   <img src="https://img.shields.io/github/stars/Jostar-Foundation?style=for-the-badge&color=7D7F82&logo=github&logoColor=white" alt="GitHub Stars"></a>
@@ -22,6 +17,13 @@
 <br>
 
 **Jostar-Foundation** is a GitHub organization designed to centralize and showcase personal projects, experiments, and diverse works in a single, well-organized space. It serves as a central hub for exploring various domains and technologies, allowing collaborators, learners, and the broader community to easily access and engage with projects. By bringing all efforts under one organization, it provides a structured environment for experimentation, knowledge sharing, and continuous learning, highlighting the application of modern tools, frameworks, and best practices. Beyond just hosting code, Jostar-Foundation reflects a commitment to innovation, skill development, and professional growth, offering a clear view of technological explorations and achievements across multiple disciplines.
+
+<div align="center">
+<!--<a href="https://www.linkedin.com/in/joshuathadi/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="60" /></a>-->
+<a href="https://github.com/joshuathadi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="80" /></a>
+</div>
 
 <!--<div align="center">
 <h2> ✪ Project Overview ❂ </h2>
