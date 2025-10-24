@@ -82,5 +82,5 @@ By bringing all efforts under one organization, it provides a structured environ
 ---
 
 <div align="center">
-  ⚠️ This README is uniquely designed by Joshua Thadi. 
+  ⚠️ This README is uniquely designed by <b>@JoshuaThadi</b>. 
 </div>
