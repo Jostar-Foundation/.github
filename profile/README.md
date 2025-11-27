@@ -7,8 +7,8 @@
 <a href="https://github.com/Jostar-Foundation" target="_blank">
   <img src="https://img.shields.io/github/stars/Jostar-Foundation?style=for-the-badge&color=7D7F82&logo=github&logoColor=white" alt="GitHub Stars"></a>
 
-<a href="https://github.com/Jostar-Foundation" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Jostar-Foundation&label=Profile%20views&color=7D7F82&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+<!-- <a href="https://github.com/Jostar-Foundation" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Jostar-Foundation&label=Profile%20views&color=7D7F82&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a> -->
 
 <!-- Followers Badge -->
 <a href="https://github.com/Jostar-Foundation" target="_blank">
