@@ -32,7 +32,6 @@ By bringing all efforts under one organization, it provides a structured environ
 
 <!-- Languages & Tools -->
 <!--<h2> ★ Tech Stack ☆ </h2>-->
-<h2></h2>
 
 <div align="center">
   <a href="https://reactjs.org/" target="_blank">
