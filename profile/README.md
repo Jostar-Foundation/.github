@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/followers/Jostar-Foundation?style=for-the-badge&color=7D7F82&logo=github&logoColor=white" alt="GitHub Followers"></a> -->
   
 </div>
-<br>
 
 **Jostar-Foundation** is a GitHub organization designed to centralize and showcase personal projects, experiments, and diverse works in a single, well-organized space. It serves as a central hub for exploring various domains and technologies, allowing collaborators, learners, and the broader community to easily access and engage with projects. 
 By bringing all efforts under one organization, it provides a structured environment for experimentation, knowledge sharing, and continuous learning, and best practices. 
