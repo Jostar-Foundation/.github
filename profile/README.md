@@ -24,7 +24,7 @@ By bringing all efforts under one organization, it provides a structured environ
   <h3>★ Best Repository</h3>
 
   <a href="https://github.com/Jostar-Foundation/ZenthCare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jostar-Foundation&repo=ZenthCare&theme=dark&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jostar-Foundation&repo=ZenthCare&theme=dark&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" /></a>
   <a href="https://github.com/Jostar-Foundation/ByteBrief">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jostar-Foundation&repo=ByteBrief&theme=dark&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
