@@ -45,12 +45,8 @@ By bringing all efforts under one organization, it provides a structured environ
   <img src="https://img.shields.io/badge/JavaScript-6E6F72?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"></a>
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Vite-6E6F72?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"></a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS%20Code-6E6F72?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"></a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-6E6F72?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"></a>
-<a href="https://www.notion.so/" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-6E6F72?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"></a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-6E6F72?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"></a>
 <a href="https://www.prisma.io/" target="_blank">
