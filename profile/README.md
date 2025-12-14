@@ -20,6 +20,13 @@ By bringing all efforts under one organization, it provides a structured environ
 
 <!--Beyond just hosting code, Jostar-Foundation reflects a commitment to innovation, skill development, and professional growth, offering a clear view of technological explorations and achievements across multiple disciplines.-->
 
+<div align="center">
+<h3>★ Best Repository</h3>
+<a href="https://github.com/Jostar-Foundation/ZenthCare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jostar-Foundation&repo=ZenthCare&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+<a href="https://github.com/Jostar-Foundation/ByteBrief">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jostar-Foundation&repo=ByteBrief&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+</div>
 
 <!--<div align="center">
 <h2> ✪ Project Overview ❂ </h2>
@@ -32,7 +39,7 @@ By bringing all efforts under one organization, it provides a structured environ
 <!-- Languages & Tools -->
 <!--<h2> ★ Tech Stack ☆ </h2>-->
 
-<div align="center">
+<!--<div align="center">
   <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-6E6F72?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"></a>
 <a href="https://nextjs.org/" target="_blank">
@@ -53,27 +60,24 @@ By bringing all efforts under one organization, it provides a structured environ
   <img src="https://img.shields.io/badge/Prisma-6E6F72?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"></a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-6E6F72?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"></a>
-</div>
+</div>-->
 
 <br>
 
-<div align="center">
-<!-- Gmail -->
+<!--<div align="left">
 <a href="mailto:jostarfoundation@gmail.com" target="_blank">
   <img src="https://github.com/Jostar-Foundation/.github/blob/main/assets/light-grey-email.png?raw=true" alt="Gmail" width="45" /></a>
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/joshuathadi/" target="_blank">
   <img src="https://github.com/Jostar-Foundation/.github/blob/main/assets/linkedin-icon-md.png?raw=true" alt="LinkedIn" width="45" /></a>
 
-<!-- GitHub -->
 <a href="https://github.com/joshuathadi" target="_blank">
   <img src="https://github.com/Jostar-Foundation/.github/blob/main/assets/grey-github-icon-removebg-preview.png?raw=true" alt="GitHub" width="45" /></a>
-</div>
+</div>-->
 
 
----
 
-<div align="center">
+
+<!--<div align="center">
   ⚠️ This README is uniquely designed by <b>@JoshuaThadi</b>. 
-</div>
+</div>-->
