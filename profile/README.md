@@ -20,7 +20,7 @@ By bringing all efforts under one organization, it provides a structured environ
 
 <!--Beyond just hosting code, Jostar-Foundation reflects a commitment to innovation, skill development, and professional growth, offering a clear view of technological explorations and achievements across multiple disciplines.-->
 
-<div align="center">
+<!-- <div align="center">
   <h3>★ Best Repository</h3>
 
   <a href="https://github.com/Jostar-Foundation/ZenthCare">
@@ -28,7 +28,7 @@ By bringing all efforts under one organization, it provides a structured environ
   <a href="https://github.com/Jostar-Foundation/ByteBrief">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jostar-Foundation&repo=ByteBrief&theme=dark&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
-</div>
+</div> -->
 
 
 <!--<div align="center">
