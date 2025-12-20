@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Jostar-Foundation/.github/blob/main/assets/jostar-logo.png" />
+<img width="100%" src="https://github.com/Jostar-Foundation/.github/blob/main/profile/Jostar%20Foundation.png" />
 
 <div align="center"><!-- Stars Badge -->
 
